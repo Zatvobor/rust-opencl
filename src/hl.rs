@@ -1,7 +1,6 @@
 //! A higher level API.
 
 use libc;
-use std;
 use std::ffi::CString;
 use std::iter::repeat;
 use std::marker::PhantomData;
